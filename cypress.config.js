@@ -54,7 +54,9 @@ configFile: 'jsconfig.json',
         username: "Admin",
         password: "admin123"
       },
-      endpoint: "/auth/login"
+      endpoint: {
+        authLogin: "/auth/login",
+      }
     },
 },
 
