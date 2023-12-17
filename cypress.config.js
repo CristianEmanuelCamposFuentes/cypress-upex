@@ -56,6 +56,7 @@ configFile: 'jsconfig.json',
       },
       endpoint: {
         authLogin: "/auth/login",
+        dashboardIndex: "/dashboard/index",
       }
     },
 },
