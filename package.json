@@ -10,6 +10,7 @@
   "author": "Cristian Emanuel Campos Fuentes",
   "license": "ISC",
   "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "cypress": "^13.6.0"
   }
 }
